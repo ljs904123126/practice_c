@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ljs/csapp",
-      "program": "/home/ljs/csapp/build/Debug/outDebug",
+      "cwd": "/home/ljs/practice_c",
+      "program": "/home/ljs/practice_c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -2,3 +2,4 @@
 *.s
 *.dump
 *.out
+build
