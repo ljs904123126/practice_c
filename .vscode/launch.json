@@ -5,7 +5,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/${fileBasenameNoExtension}.o",
+      "program": "${workspaceFolder}/build/${relativeFileDirname}/${fileBasenameNoExtension}.o",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
